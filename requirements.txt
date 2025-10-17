@@ -1,0 +1,6 @@
+flask
+easyocr
+werkzeug
+gunicorn
+flask-cors
+opencv-python
